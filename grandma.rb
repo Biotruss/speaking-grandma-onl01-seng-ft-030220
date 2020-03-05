@@ -1,4 +1,5 @@
-if speak_to_grandma(phrase)
+def speak_to_grandma(phrase)
+  if phrase.
     puts "I LOVE YOU TOO PUMPKIN!"
   else (phrase)
 end
